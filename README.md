@@ -71,7 +71,7 @@
 🔹 **[RISKLENS — Credit Risk Analysis & Loan Default Prediction](https://github.com/nainsy24/credit-risk-loan-default-prediction)**
 > Built a classification model to predict loan default risk, enabling smarter credit decisions. Covers EDA, feature engineering, model comparison, and a Streamlit dashboard.
 
-🔹 **[CHURNIQ — Customer Churn Prediction](https://github.com/nainsy24/REPO-NAME)**
+🔹 **[CHURNIQ — Customer Churn Prediction](https://github.com/nainsy24/Blostem-customer-churn-prediction)**
 > Predicts whether a customer will churn using ML models. Includes business insights and actionable recommendations for retention strategy.
 
 🔹 **[Multi-Domain Threat Detection — Land, Water & Air](https://github.com/nainsy24/REPO-NAME)**
