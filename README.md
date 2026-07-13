@@ -68,7 +68,7 @@
 
 ###  Featured Projects
 
-🔹 **[RISKLENS — Credit Risk Analysis & Loan Default Prediction](https://github.com/nainsy24/REPO-NAME)**
+🔹 **[RISKLENS — Credit Risk Analysis & Loan Default Prediction](https://github.com/nainsy24/credit-risk-loan-default-prediction)**
 > Built a classification model to predict loan default risk, enabling smarter credit decisions. Covers EDA, feature engineering, model comparison, and a Streamlit dashboard.
 
 🔹 **[CHURNIQ — Customer Churn Prediction](https://github.com/nainsy24/REPO-NAME)**
