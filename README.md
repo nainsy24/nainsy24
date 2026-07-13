@@ -77,7 +77,7 @@
 🔹 **[Multi-Domain Threat Detection — Land, Water & Air](https://github.com/nainsy24/REPO-NAME)**
 > A computer vision system capable of detecting threats across three domains (land, water, air) using deep learning and object detection techniques.
 
-🔹 **[Face Mask Detection — Computer Vision](https://github.com/nainsy24/REPO-NAME)**
+🔹 **[Face Mask Detection — Computer Vision](https://github.com/nainsy24/face-mask-detector-opencv)**
 > Real-time face mask detection using OpenCV and deep learning. Classifies whether a person is wearing a mask or not from live video/image input.
 
 ---
