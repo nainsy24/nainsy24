@@ -74,7 +74,7 @@
 🔹 **[CHURNIQ — Customer Churn Prediction](https://github.com/nainsy24/Blostem-customer-churn-prediction)**
 > Predicts whether a customer will churn using ML models. Includes business insights and actionable recommendations for retention strategy.
 
-🔹 **[Multi-Domain Threat Detection — Land, Water & Air](https://github.com/nainsy24/REPO-NAME)**
+🔹 **[Multi-Domain Threat Detection — Land, Water & Air](https://github.com/nainsy24/Multi-domain-threat-detection-project)**
 > A computer vision system capable of detecting threats across three domains (land, water, air) using deep learning and object detection techniques.
 
 🔹 **[Face Mask Detection — Computer Vision](https://github.com/nainsy24/face-mask-detector-opencv)**
